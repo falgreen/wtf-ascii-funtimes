@@ -1,7 +1,3 @@
-% title
-% SFFL
-% date
-
 # This is a report generated for file inst/test.R
 
 
