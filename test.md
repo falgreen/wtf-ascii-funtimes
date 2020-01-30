@@ -1,11 +1,6 @@
----
-title: "Biostat log"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    smart: false
----
+% title
+% SFFL
+% date
 
 # This is a report generated for file inst/test.R
 
